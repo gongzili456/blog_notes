@@ -39,6 +39,8 @@
                 {{ partial "share.html" . }}
             {{ end }}
 
+            {{ partial "profile.html" . }}
+
             {{ if .Site.Params.enableDisqus }}
                 {{ partial "disqus.html" . }}
             {{ end }}
