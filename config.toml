@@ -1,15 +1,15 @@
 # Site settings
 baseurl = "/"
 languageCode = "en"
-title = "志"
+title = "贵哥说"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "your_google_analytics_id"
+googleAnalytics = "UA-111560669-1"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = true
 
 [params]
 	author = "liuguili"
-	description = "技术/生活/创业"
+	description = "贵哥,贵哥说,技术,玩物,人文,生活,创业"
 	bio = "技术/玩物/人文/生活/创业"
 
 	twitter = "your_twitter_id"
@@ -20,7 +20,7 @@ hasCJKLanguage = true
   # 文章内目录开关
 
 	enableDisqus = true
-	disqusShortname = "your_disqus_short_name"
+	disqusShortname = "liuguili-com-blog"
 
 
 	enableSummary = true
@@ -75,6 +75,6 @@ hasCJKLanguage = true
 
 # Add additional social link entries underneath
 [social]
-	facebook-square = "https://www.facebook.com/nodejh"
-	twitter-square = "https://www.twitter.com/nodejh"
-	github-square = "https://www.github.com/nodejh"
+	facebook-square = "https://www.facebook.com/"
+	twitter-square = "https://www.twitter.com/"
+	github-square = "https://www.github.com/"
