@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "liuguili.com"
+baseurl = "/"
 languageCode = "en"
 title = "志"
 theme = "hugo-theme-cactus-plus"
